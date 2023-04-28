@@ -1,0 +1,33 @@
+Diretor;Renata;666;555;2000.00
+Cliente;Lucas Silva;057;0124
+Cliente;Gabriela Almeida;096;0124
+Cliente;Thiago Oliveira;013;0124
+Cliente;Juliana Santos;027;0124
+Cliente;Pedro Costa;039;0124
+Cliente;Lucas Ferreira;001;0124
+Cliente;Fernanda Martins;002;0124
+Cliente;Gustavo Almeida;003;0124
+Cliente;Luisa Oliveira;004;0124
+Cliente;Carla Silva;005;0124
+Poupanca;2020;00203;Lucas Silva;057;3000.00
+Poupanca;2020;00204;Gabriela Almeida;096;3600.00
+Poupanca;2020;00205;Thiago Oliveira;013;3060.00
+Poupanca;2022;00206;Juliana Santos;027;3700.00
+Poupanca;2022;00207;Pedro Costa;039;3900.00
+Corrente;2020;00105;Lucas Ferreira;001;1200.00
+Corrente;2020;00106;Fernanda Martins;002;9000.00
+Corrente;2020;00107;Gustavo Almeida;003;3000.00
+Corrente;2022;00104;Luisa Oliveira;004;8000.00
+Corrente;2022;00103;Carla Silva;005;200.0
+Caixa;Pablo;333;444;1800.00
+Caixa;Bianca;787;888;1800.00
+Caixa;João;889;111;1800.00
+Presidente;Hugo;2003;111;43000.00
+Diretor;Wiliane;999;666;4000.00
+Diretor;Bernardo;888;555;4000.00
+Gerente;Renato;555;444;2000.00;2022
+Gerente;Bernardo;777;222;2000.00;2020
+Gerente;Bernardo;777;222;2000.00;2020
+
+
+
